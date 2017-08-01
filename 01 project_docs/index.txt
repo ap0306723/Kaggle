@@ -1,0 +1,40 @@
+Kaggle:
+https://www.kaggle.com/
+
+Kaggle Past Solutions:(Kaggle历史解决方案)
+http://ndres.me/kaggle-past-solutions/
+https://github.com/EliotAndres/kaggle-past-solutions
+
+Kaggle Competitions-gettingStarted：(Kaggle比赛入门)
+https://www.kaggle.com/competitions?sortBy=prize&group=all&page=1&segment=gettingStarted
+
+
+Kaggle Competitions-playground：(Kaggle比赛入门)
+https://www.kaggle.com/competitions?sortBy=prize&group=all&page=1&segment=playground
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
